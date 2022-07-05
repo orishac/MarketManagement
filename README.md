@@ -1,10 +1,3 @@
-# ADSS_Group_B
-
-311598031- Niv Dan 
-312330418- Dor Elad 
-208915751- Bar Damri
-313236978- yuval hitter
-206293185 - Yakov Elmaleh
-321157117 - Aleks Lisutta 
-206826539 - Ori Shacham
- 212073696 - Kfir Sofer
+ This is our project from Analysis and Design Sofware Systems.
+ In this Project, we were asked to build a system to help manage a market company.
+ I'd like to thanks my teammates Niv, Dor, Bar, Yuval, Yaki, Aleks and Kfir.
